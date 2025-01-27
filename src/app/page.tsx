@@ -7,7 +7,7 @@ export default function Home() {
           <div className="container flex justify-between gap-5">
             <div className="flex flex-col">          
               <h1 className="text-4xl max-w-[28rem] mb-6 font-semibold">Online P2P platform for virtual assets trading</h1>
-              <p className="max-w-[24rem] font-light">Crypto Coin Convert provides exchange of fiat currencies for cryptocurrencies and vice versa via partners virtual assets exchange platform (i.e. Binance, OKX, Bybit etc.)</p>
+              <p className="max-w-[24rem] font-light">Crypto Coin Convert provides exchange of fiat currencies for cryptocurrencies and vice versa via partners virtual assets exchange platform</p>
             </div>
             <div className=" relative w-64 h-64">
               <Image alt='' objectFit="contain" fill src={'/Designer.jpeg'}/>
