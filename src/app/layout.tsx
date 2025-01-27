@@ -62,7 +62,7 @@ export default function RootLayout({
             <Image src={'/logo-text.png'} objectFit="contain" fill alt='Cyber Coin Convert'/>
           </div>
         </div>
-        <p className=" text-sm">Copyright © 2025, Crypto Coin Convert.</p>
+        <p className=" text-sm">Copyright © 2025, Cyber Coin Convert.</p>
        </div>
           </footer>
         </div>
