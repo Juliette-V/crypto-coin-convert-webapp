@@ -5,7 +5,7 @@ export default function LoginPage() {
     <div className=" m-auto container px-8">
       <h1 className=" text-center text-2xl font-semibold mb-6">Terms and Conditions</h1>
       <p className=" text-3xl font-bold mb-6">IMPORTANT: PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WEBSITE.</p>
-      <p className="mb-6">These Terms and Conditions (“Terms”) form a legally binding agreement between you (“User”, “you”, or “your”) and Cyber Coin Convert s.r.o. (“Company”, “we”, “us”, or “our”) regarding your use of our website located at _____________, mobile applications, APIs, and related services (collectively, the “Platform”). By accessing or using our Platform, you agree to comply with and be bound by these Terms, as well as our Privacy Policy. If you are using the Platform on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.</p>
+      <p className="mb-6">These Terms and Conditions (“Terms”) form a legally binding agreement between you (“User”, “you”, or “your”) and Cyber Coin Convert s.r.o. (“Company”, “we”, “us”, or “our”) regarding your use of our website located at https://www.cyber-coin-convert.com, mobile applications, APIs, and related services (collectively, the “Platform”). By accessing or using our Platform, you agree to comply with and be bound by these Terms, as well as our Privacy Policy. If you are using the Platform on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.</p>
       <ol className=" list-decimal pl-5 mt-4">
         <li>
             <h3 className="font-medium">Acceptance of Terms</h3>

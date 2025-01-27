@@ -11,7 +11,7 @@ export default function LoginPage() {
             <br/>
             <p>This Privacy Policy (“Policy”) outlines how Cyber Coin Convert s.r.o., located at Cimburkova 916/8, Zizkov, 130 00 Praha 3, company number 21246858 (hereinafter referred to as the “Company,” “we,” “us,” or “our”), collects, uses, discloses, and safeguards your personal data in connection with your interest in our online platform and its products and services (collectively referred to as the “Company Products”).
 
-            <br/><br/>We value your privacy and are committed to protecting your personal data in accordance with the EU General Data Protection Regulation (GDPR) and other applicable privacy laws. This Policy applies to all users of our website located at _______________ and our mobile application (collectively referred to as the “Site”). Please read this Privacy Policy carefully. If you do not agree with its terms, please do not access the Site.
+            <br/><br/>We value your privacy and are committed to protecting your personal data in accordance with the EU General Data Protection Regulation (GDPR) and other applicable privacy laws. This Policy applies to all users of our website located at https://www.cyber-coin-convert.com. Please read this Privacy Policy carefully. If you do not agree with its terms, please do not access the Site.
 
             <br/><br/>Our commitment is to ensure that any personal data collected will be treated confidentially and responsibly. This Policy does not extend to third-party websites or sources, and we are not responsible for their privacy policies.
 
